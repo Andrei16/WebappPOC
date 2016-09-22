@@ -1,8 +1,8 @@
 {
-  "name": "frontend-webapp",
+  "name": "front-webapp",
   "version": "0.0.1",
-  "description": "Just a frontend proof of concept webapp",
-  "author": "Boitan Andrei",
+  "description": "just a stand alone proof of concept webapp",
+  "author": "Onisor Mircea",
   "dependencies": {
     "express": "^4.14.0",
     "jquery": "^3.1.0"
